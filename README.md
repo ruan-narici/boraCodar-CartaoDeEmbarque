@@ -17,4 +17,4 @@ Criar um cartão de embarque.
 
 
 ## Pré-visualização
-![GIF do Desafio-6](./assets/img/preview.gif#vitrinedev)
+![GIF do Desafio-6](./assets/img/preview.gif)
